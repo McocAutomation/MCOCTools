@@ -1,0 +1,16 @@
+/*======= yellow =========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #ffe162;
+}
+.custom-navbar.top-nav-collapse .main-menu ul.nav.navbar-nav li.active a.theme-color{
+    color: #ffe162;
+   
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #ffe162;
+    color: #000;
+}
+.btn.theme-color.btn-effect.disabled:hover {
+    color: #000;
+}
+/*======= end yellow =========*/

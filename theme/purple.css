@@ -1,0 +1,16 @@
+/*=========== purple ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #663399;
+}
+.custom-navbar.top-nav-collapse .main-menu ul.nav.navbar-nav li.active a.theme-color{
+    color: #663399;
+   
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #663399;
+    color: #fff;
+}
+.btn.theme-color.btn-effect.disabled:hover {
+    color: #fff;
+}
+/*=========== end purple ===========*/

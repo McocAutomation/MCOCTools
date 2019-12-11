@@ -1,0 +1,16 @@
+/*=========== green ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #44b272;
+}
+.custom-navbar.top-nav-collapse .main-menu ul.nav.navbar-nav li.active a.theme-color{
+    color: #44b272;
+   
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #44b272;
+    color: #000;
+}
+.btn.theme-color.btn-effect.disabled:hover {
+    color: #000;
+}
+/*=========== end green ===========*/

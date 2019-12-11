@@ -1,0 +1,17 @@
+/*=========== blue ===========*/
+.main-menu ul.navbar-nav li.active a.theme-color{
+    color: #304fff;
+}
+.custom-navbar.top-nav-collapse .main-menu ul.nav.navbar-nav li.active a.theme-color{
+    color: #304fff;
+   
+}
+.btn.theme-color, a.btn.theme-color{
+    background: #304fff;
+    color: #fff;
+}
+.btn.theme-color.btn-effect.disabled:hover {
+    color: #fff;
+}
+
+/*=========== end blue ===========*/
